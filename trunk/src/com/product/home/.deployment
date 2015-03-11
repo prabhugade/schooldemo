@@ -1,0 +1,5 @@
+#Sun Feb 16 20:08:21 IST 2014
+war.name=SchoolWebApp.war
+compiler.style=OBFUSCATED
+server.path=/var/lib/tomcat7/webapps
+compiler.memory.max=512m
